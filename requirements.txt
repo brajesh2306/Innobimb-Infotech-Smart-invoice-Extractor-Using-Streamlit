@@ -1,8 +1,7 @@
-streamlit
-pandas
-openpyxl
-python-dotenv
-fuzzywuzzy[speedup]
-python-levenshtein
-azure-ai-formrecognizer==7.4.0
-SQLAlchemy
+streamlit==1.37.0
+pandas==2.2.2
+openpyxl==3.1.2
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
+azure-ai-formrecognizer==3.3.0
+azure-core==1.30.1
