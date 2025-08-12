@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+python-dotenv
+fuzzywuzzy[speedup]
+python-levenshtein
+azure-ai-formrecognizer==7.4.0
+SQLAlchemy
